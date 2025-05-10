@@ -2,10 +2,23 @@
 Build a fast interactive avatar on your laptop and mobile phones
 
 ## Avatar Models
+2D talking-face synthesis (milestone tasks, representative pipelines, challenge-insight tree, best practice)
 
 ## The Pipeline of Interactive Avatars
+xxx
 
-### Optimization techniques
+## Optimization Techniques
+
+### Model Acceleration
+
+### Pipeline Acceleration
+
+### Runtime Optimization
+
+## Hands-on Demos
+- [ ] MobileAvatar on Huawei Mate 30
+- [ ] LaptopAvatar on NVIDIA GeForce GTX 1070
+- [ ] WebAvatar on NVIDIA Tesla V100
 
 ## References
 1. Chunyu Li et al. "[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](https://arxiv.org/abs/2412.09262)". arXiv preprint arXiv:2412.09262.
