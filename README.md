@@ -1,5 +1,5 @@
-# Fastavatar
-Build a fast interactive avatar on your laptop and mobile phones
+# FastAvatar
+_Build a fast interactive avatar on your laptop and mobile phones._
 
 ## Avatar Models
 2D talking-face synthesis (milestone tasks, representative pipelines, challenge-insight tree, best practice)
